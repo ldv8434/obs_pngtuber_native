@@ -5,5 +5,7 @@ This script will monitor an audio source and modify an image source if that audi
 
 Features a menu that allows you to configure audio source, image source, images, audio threshhold, and image hold time (for breaks in speech).  
 
+![](example.png)
+
 ## Credits
 The heavy lifting of detecting audio levels is taken from upgradeQ's examples, available here: [https://github.com/upgradeQ/OBS-Studio-Python-Scripting-Cheatsheet-obspython-Examples-of-API/blob/master/src/volmeter_via_ffi.py](https://github.com/upgradeQ/OBS-Studio-Python-Scripting-Cheatsheet-obspython-Examples-of-API/blob/master/src/volmeter_via_ffi.py)
